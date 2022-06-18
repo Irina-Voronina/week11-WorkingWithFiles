@@ -23,7 +23,6 @@ namespace WorkingWithFiles
             MoveFile();
             DisplayFilesMyData();
             DeleteFile();
-            DeleteFile();
             Continuation();
             Sentiment();
         }
